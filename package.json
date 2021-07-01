@@ -1,0 +1,20 @@
+{
+  "name": "ni7sz1--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "@antv/g6": "4.3.3",
+    "insert-css": "2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
